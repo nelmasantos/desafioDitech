@@ -1,4 +1,4 @@
-<?
+<?php
 class AgendaINT extends AgendaRN {
 
 public static function montarAreaAgenda($diaAtual=null, $strMaisMenos=null, $strTipoServico = null){
